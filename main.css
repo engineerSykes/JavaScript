@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------
+--| Title:       Trig02.js                                                 |
+--| Description: Animation of circle "orbiting" along a plane with fake    |
+--|              perspective for the illusion of a 3D orbital plane        |
+--| Author:      Christopher Sykes                                         |
+--| CREATED:     July, 13th 2016                                           |
+--| Copyright:   ©2016                                                     |
+--| Created With: zTxT by Zevan Rosser (github.com/ZevanRosser/ztxt.git)   |
+----------------------------------------------------------------------------
+
+main, body {
+  background:          #000;
+  margin:               0px;
+  }
+
+canvas  {
+  -- width and height settings causes stretching
+  -- width:                 400px;
+  -- height:                600px;
+  background:          #080809;
+  display:               block;
+  }
